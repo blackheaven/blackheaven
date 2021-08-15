@@ -8,8 +8,8 @@
   <a href="https://github-readme-streak-stats.herokuapp.com?user=blackheaven&theme=slateorange&hide_border=true&background=22272e">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=blackheaven&theme=slateorange&hide_border=true&background=22272e" />
   </a>
-  <a href="https://github-profile-trophy.vercel.app/?username=blackheaven&theme=juicyfresh&column=3&row=2&no-frame=true&no-bg=true">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=blackheaven&theme=juicyfresh&column=3&row=2&no-frame=true&no-bg=true" />
+  <a href="https://github-profile-trophy.vercel.app/?username=blackheaven&theme=juicyfresh&column=3&row=2&no-frame=true">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=blackheaven&theme=juicyfresh&column=3&row=2&no-frame=true" />
   </a>
 </p>
 
