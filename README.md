@@ -1,15 +1,15 @@
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=blackheaven&show_icons=true&count_private=true&theme=slateorange&hide_border=true&hide=issues,contribs&bg_color=00000000">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=blackheaven&show_icons=true&count_private=true&theme=slateorange&hide_border=true&hide=issues,contribs&bg_color=00000000" />
+  <a href="https://github-readme-stats.vercel.app/api?username=blackheaven&show_icons=true&count_private=true&theme=slateorange&hide_border=true&hide=issues,contribs&bg_color=22272e">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=blackheaven&show_icons=true&count_private=true&theme=slateorange&hide_border=true&hide=issues,contribs&bg_color=22272e" />
   </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=blackheaven&layout=compact&hide_border=true&theme=slateorange&bg_color=00000000&langs_count=10&hide=javascript,css,tex,html">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackheaven&layout=compact&hide_border=true&theme=slateorange&bg_color=00000000&langs_count=10&hide=javascript,css,tex,html" />
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=blackheaven&layout=compact&hide_border=true&theme=slateorange&langs_count=10&hide=javascript,css,tex,html&bg_color=22272e">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackheaven&layout=compact&hide_border=true&theme=slateorange&langs_count=10&hide=javascript,css,tex,html&bg_color=22272e" />
   </a>
-  <a href="https://github-readme-streak-stats.herokuapp.com?user=blackheaven&theme=slateorange&hide_border=true&background=FFFFFF00">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=blackheaven&theme=slateorange&hide_border=true&background=FFFFFF00" />
+  <a href="https://github-readme-streak-stats.herokuapp.com?user=blackheaven&theme=slateorange&hide_border=true&background=22272e">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=blackheaven&theme=slateorange&hide_border=true&background=22272e" />
   </a>
-  <a href="https://github-profile-trophy.vercel.app/?username=blackheaven&theme=juicyfresh&column=4">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=blackheaven&theme=juicyfresh&column=4" />
+  <a href="https://github-profile-trophy.vercel.app/?username=blackheaven&theme=juicyfresh&column=3&row=2&no-frame=true&no-bg=true">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=blackheaven&theme=juicyfresh&column=3&row=2&no-frame=true&no-bg=true" />
   </a>
 </p>
 
