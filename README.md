@@ -43,6 +43,7 @@ I am a professional *Software Engineering*, I have a solid track record of worki
 
 I have published some packages over Hackage:
 
+- [pulsar-hs](https://github.com/hetchr/pulsar-hs) (September 2021): complete [Apache Pulsar](https://github.com/apache/pulsar) client and admin client
 - [aeson-modern-tojson](https://hackage.haskell.org/package/aeson-modern-tojson) (June 2021): aims to give a post 0.x way to derive aeson's ToJSON instances
 - [typed-time](https://hackage.haskell.org/package/typed-time) (May 2021): provides a type-level time format
 - [amqp-streamly](https://hackage.haskell.org/package/amqp-streamly) (August 2020): Connect amqp (RabbitMQ) to streamly
@@ -51,6 +52,8 @@ I have published some packages over Hackage:
 
 I also contributed to the following projects:
 
+- [Apache Pulsar](https://github.com/apache/pulsar): distributed pub-sub messaging system
+  - November 2021: Headers fixes and synchronous functions addition in the C cleint
 - [generic-random](https://hackage.haskell.org/package/generic-random): derive via GHC.Generics QuickCheck's Arbitrary instance
   - July 2021: Implement a type-level deriving via module
 - [testcontainers-hs](https://hackage.haskell.org/package/testcontainers): manage Docker containers for tests
