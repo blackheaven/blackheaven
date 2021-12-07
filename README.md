@@ -52,8 +52,10 @@ I have published some packages over Hackage:
 
 I also contributed to the following projects:
 
+- [tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load): tmux monitor (CPU, RAM, load)
+  - December 2021: Change RAM units threshold and CPU usage color
 - [Apache Pulsar](https://github.com/apache/pulsar): distributed pub-sub messaging system
-  - November 2021: Headers fixes and synchronous functions addition in the C cleint
+  - November 2021: Headers fixes and synchronous functions addition in the C client
 - [generic-random](https://hackage.haskell.org/package/generic-random): derive via GHC.Generics QuickCheck's Arbitrary instance
   - July 2021: Implement a type-level deriving via module
 - [testcontainers-hs](https://hackage.haskell.org/package/testcontainers): manage Docker containers for tests
