@@ -52,7 +52,11 @@ I have published some packages over Hackage:
 
 I also contributed to the following projects:
 
-- [tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load): tmux monitor (CPU, RAM, load)
+- [vim-slime](https://github.com/jpalardy/vim-slime): ViM plugin for interactions withterminal multiplexers
+  - December 2021: Fix tmux support
+- [powerline-go](https://github.com/justjanne/powerline-go): Powerline-like shell prompts customization
+  - December 2021: Add vi-mode segment
+- [tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load): tmux monitor (CPU, RAM, load) utils (for the status line)
   - December 2021: Change RAM units threshold and CPU usage color
 - [Apache Pulsar](https://github.com/apache/pulsar): distributed pub-sub messaging system
   - November 2021: Headers fixes and synchronous functions addition in the C client
