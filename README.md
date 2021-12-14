@@ -52,7 +52,7 @@ I have published some packages over Hackage:
 
 I also contributed to the following projects:
 
-- [vim-slime](https://github.com/jpalardy/vim-slime): ViM plugin for interactions withterminal multiplexers
+- [vim-slime](https://github.com/jpalardy/vim-slime): ViM plugin for interactions with terminal multiplexers
   - December 2021: Fix tmux support
 - [powerline-go](https://github.com/justjanne/powerline-go): Powerline-like shell prompts customization
   - December 2021: Add vi-mode segment
