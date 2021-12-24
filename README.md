@@ -39,9 +39,9 @@ I am a professional *Software Engineering*, I have a solid track record of worki
 
 ---
 
-### Open sources contributions (Haskell/Hackage)
+### Open sources contributions
 
-I have published some packages over Hackage:
+I have published some packages over Hackage (Haskell):
 
 - [pulsar-hs](https://github.com/hetchr/pulsar-hs) (September 2021): complete [Apache Pulsar](https://github.com/apache/pulsar) client and admin client
 - [aeson-modern-tojson](https://hackage.haskell.org/package/aeson-modern-tojson) (June 2021): aims to give a post 0.x way to derive aeson's ToJSON instances
@@ -49,6 +49,10 @@ I have published some packages over Hackage:
 - [amqp-streamly](https://hackage.haskell.org/package/amqp-streamly) (August 2020): Connect amqp (RabbitMQ) to streamly
 - [servant-streamly](https://hackage.haskell.org/package/servant-streamly) (July 2020) Streamly support for Servant
 - [dijkstra-simple](https://hackage.haskell.org/package/dijkstra-simple) (June 2020): a simple Dijkstra's shortest-path implementation
+
+I have also published:
+
+- [coc-hls](https://www.npmjs.com/package/coc-hls) (npm): haskell-language-server coc.nvim extension
 
 I also contributed to the following projects:
 
