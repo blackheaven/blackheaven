@@ -64,6 +64,8 @@ I also contributed to the following projects:
   - December 2021: Change RAM units threshold and CPU usage color
 - [Apache Pulsar](https://github.com/apache/pulsar): distributed pub-sub messaging system
   - November 2021: Headers fixes and synchronous functions addition in the C client
+- [wai-extra](https://hackage.haskell.org/package/wai-extra): WAI utilities
+  - April 2022: Add `Middleware`s for health checks
 - [generic-random](https://hackage.haskell.org/package/generic-random): derive via GHC.Generics QuickCheck's Arbitrary instance
   - July 2021: Implement a type-level deriving via module
 - [testcontainers-hs](https://hackage.haskell.org/package/testcontainers): manage Docker containers for tests
@@ -71,6 +73,7 @@ I also contributed to the following projects:
   - June-August 2020: Hspec support, bug fixes, aeson-optics usage
 - [bloodhound](https://hackage.haskell.org/package/bloodhound): ElasticSearch client
   - February 2021: bug fixes
+  - Since April 2022: Maintainer
 - [pandoc](https://hackage.haskell.org/package/pandoc): text format processing
   - January 2021: Support for Github wikilinks
 - [hatrace](https://github.com/nh2/hatrace): strace-like
