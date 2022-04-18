@@ -66,6 +66,7 @@ I also contributed to the following projects:
   - November 2021: Headers fixes and synchronous functions addition in the C client
 - [wai-extra](https://hackage.haskell.org/package/wai-extra): WAI utilities
   - April 2022: Add `Middleware`s for health checks
+  - April 2022: Add a dynamic `Middleware` builder
 - [generic-random](https://hackage.haskell.org/package/generic-random): derive via GHC.Generics QuickCheck's Arbitrary instance
   - July 2021: Implement a type-level deriving via module
 - [testcontainers-hs](https://hackage.haskell.org/package/testcontainers): manage Docker containers for tests
