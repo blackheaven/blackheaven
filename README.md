@@ -64,6 +64,8 @@ I also contributed to the following projects:
   - December 2021: Change RAM units threshold and CPU usage color
 - [Apache Pulsar](https://github.com/apache/pulsar): distributed pub-sub messaging system
   - November 2021: Headers fixes and synchronous functions addition in the C client
+- [optparse-generic](https://hackage.haskell.org/package/optparse-generic): `optparse-application` `Generic`s based library
+  - April 2022: Add `Parser`/`Record` runner
 - [wai-extra](https://hackage.haskell.org/package/wai-extra): WAI utilities
   - April 2022: Add `Middleware`s for health checks
   - April 2022: Add a dynamic `Middleware` builder
