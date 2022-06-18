@@ -76,6 +76,7 @@ I also contributed to the following projects:
 - [generic-random](https://hackage.haskell.org/package/generic-random): derive via GHC.Generics QuickCheck's Arbitrary instance
   - July 2021: Implement a type-level deriving via module
 - [testcontainers-hs](https://hackage.haskell.org/package/testcontainers): manage Docker containers for tests
+  - June 2022: Add naming strategies
   - May 2021: bug fixes
   - June-August 2020: Hspec support, bug fixes, aeson-optics usage
 - [bloodhound](https://hackage.haskell.org/package/bloodhound): ElasticSearch client
