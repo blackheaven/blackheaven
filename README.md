@@ -45,6 +45,7 @@ I am a professional *Software Engineer*, I have a solid track record of working 
 
 I have published some packages over Hackage (Haskell):
 
+- [nonempty-wrapper](https://hackage.haskell.org/package/nonempty-wrapper) (June 2022): provides a wrapper for non-empty values (also [-aeson](https://hackage.haskell.org/package/nonempty-wrapper-aeson), [-quickcheck](https://hackage.haskell.org/package/nonempty-wrapper-quickcheck), [-text](https://hackage.haskell.org/package/nonempty-wrapper-text))
 - [pulsar-hs](https://github.com/hetchr/pulsar-hs) (September 2021): complete [Apache Pulsar](https://github.com/apache/pulsar) client and admin client
 - [aeson-modern-tojson](https://hackage.haskell.org/package/aeson-modern-tojson) (June 2021): aims to give a post 0.x way to derive aeson's ToJSON instances
 - [typed-time](https://hackage.haskell.org/package/typed-time) (May 2021): provides a type-level time format
