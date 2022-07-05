@@ -59,6 +59,8 @@ I have also published:
 
 I also contributed to the following projects:
 
+- [mercure](https://mercure.rocks): Server-Sent Event hub
+  - July 2022: Add Caddy directive for Docker deployment
 - [vim-slime](https://github.com/jpalardy/vim-slime): ViM plugin for interactions with terminal multiplexers
   - December 2021: Fix tmux support
 - [powerline-go](https://github.com/justjanne/powerline-go): Powerline-like shell prompts customization
