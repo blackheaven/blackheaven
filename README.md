@@ -45,6 +45,7 @@ I am a professional *Software Engineer*, I have a solid track record of working 
 
 I have published some packages over Hackage (Haskell):
 
+- [librarian](https://hackage.haskell.org/package/librarian) (July 2022): a rules-based files moving cli tool
 - [nonempty-wrapper](https://hackage.haskell.org/package/nonempty-wrapper) (June 2022): provides a wrapper for non-empty values (also [-aeson](https://hackage.haskell.org/package/nonempty-wrapper-aeson), [-quickcheck](https://hackage.haskell.org/package/nonempty-wrapper-quickcheck), [-text](https://hackage.haskell.org/package/nonempty-wrapper-text))
 - [pulsar-hs](https://github.com/hetchr/pulsar-hs) (September 2021): complete [Apache Pulsar](https://github.com/apache/pulsar) client and admin client
 - [aeson-modern-tojson](https://hackage.haskell.org/package/aeson-modern-tojson) (June 2021): aims to give a post 0.x way to derive aeson's ToJSON instances
@@ -55,12 +56,22 @@ I have published some packages over Hackage (Haskell):
 
 I have also published:
 
-- [coc-hls](https://www.npmjs.com/package/coc-hls) (npm): haskell-language-server coc.nvim extension
+- [coc-hls](https://www.npmjs.com/package/coc-hls) (npm) (December 2021): haskell-language-server coc.nvim extension
+- [danger-ormolu](https://rubygems.org/gems/danger-ormolu) (RubyGems) (August 2021): ormulu integration in Danger (CI tool)
 
 I also contributed to the following projects:
 
+- [cabal](https://github.com/haskell/cabal): Haskell main build tool
+  - July 2022: Clarify cli flag documentation
 - [mercure](https://mercure.rocks): Server-Sent Event hub
   - July 2022: Add Caddy directive for Docker deployment
+- [hspec-discover](https://hackage.haskell.org/package/hspec-discover): `hspec`s driver for tests discovery
+  - June 2022: Add parallel runner
+- [optparse-generic](https://hackage.haskell.org/package/optparse-generic): `optparse-application` `Generic`s based library
+  - April 2022: Add `Parser`/`Record` runner
+- [wai-extra](https://hackage.haskell.org/package/wai-extra): WAI utilities
+  - April 2022: Add `Middleware`s for health checks
+  - April 2022: Add a dynamic `Middleware` builder
 - [vim-slime](https://github.com/jpalardy/vim-slime): ViM plugin for interactions with terminal multiplexers
   - December 2021: Fix tmux support
 - [powerline-go](https://github.com/justjanne/powerline-go): Powerline-like shell prompts customization
@@ -69,23 +80,16 @@ I also contributed to the following projects:
   - December 2021: Change RAM units threshold and CPU usage color
 - [Apache Pulsar](https://github.com/apache/pulsar): distributed pub-sub messaging system
   - November 2021: Headers fixes and synchronous functions addition in the C client
-- [hspec-discover](https://hackage.haskell.org/package/hspec-discover): `hspec`s driver for tests discovery
-  - June 2022: Add parallel runner
-- [optparse-generic](https://hackage.haskell.org/package/optparse-generic): `optparse-application` `Generic`s based library
-  - April 2022: Add `Parser`/`Record` runner
-- [wai-extra](https://hackage.haskell.org/package/wai-extra): WAI utilities
-  - April 2022: Add `Middleware`s for health checks
-  - April 2022: Add a dynamic `Middleware` builder
 - [generic-random](https://hackage.haskell.org/package/generic-random): derive via GHC.Generics QuickCheck's Arbitrary instance
   - July 2021: Implement a type-level deriving via module
+- [bloodhound](https://hackage.haskell.org/package/bloodhound): ElasticSearch client
+  - Since April 2022: Maintainer
+  - February 2021: bug fixes
+- [pandoc](https://hackage.haskell.org/package/pandoc): text format processing
+  - January 2021: Support for Github wikilinks
 - [testcontainers-hs](https://hackage.haskell.org/package/testcontainers): manage Docker containers for tests
   - June 2022: Add naming strategies
   - May 2021: bug fixes
   - June-August 2020: Hspec support, bug fixes, aeson-optics usage
-- [bloodhound](https://hackage.haskell.org/package/bloodhound): ElasticSearch client
-  - February 2021: bug fixes
-  - Since April 2022: Maintainer
-- [pandoc](https://hackage.haskell.org/package/pandoc): text format processing
-  - January 2021: Support for Github wikilinks
 - [hatrace](https://github.com/nh2/hatrace): strace-like
   - June 2020: Introduction of many syscalls
