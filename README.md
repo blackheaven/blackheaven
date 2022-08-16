@@ -31,7 +31,7 @@ I am a professional *Software Engineer*, I have a solid track record of working 
 
 ### Technologies currently used
 
- - *Haskell* (Servant, Polysemy, squeal, amazonka, colog), *Bazel*, *Nix*
+ - *Haskell* (Servant, Polysemy, Hasql, amazonka, colog), *Bazel*, *Nix*
  - *Github Actions*
  - *Terraform*
  - *AWS* (OpenSearch, EKS, QuickSight)
@@ -61,6 +61,10 @@ I have also published:
 
 I also contributed to the following projects:
 
+- [event-streaming-patterns](https://github.com/confluentinc/event-streaming-patterns): Confluent/Kafka Messaging/Streaming patterns
+  - August 2022: Fix code example
+- [hspec](https://hackage.haskell.org/package/hspec): `hspec` is a behavior-driven development testing library (à la RSpec)
+  - August 2022: Add parallel result rendering
 - [cabal](https://github.com/haskell/cabal): Haskell main build tool
   - July 2022: Clarify cli flag documentation
 - [mercure](https://mercure.rocks): Server-Sent Event hub
