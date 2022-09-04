@@ -45,6 +45,7 @@ I am a professional *Software Engineer*, I have a solid track record of working 
 
 I have published some packages over Hackage (Haskell):
 
+- [yarl](https://hackage.haskell.org/package/yarl) (September 2022): simple extensible records library (with `getField` support)
 - [sized-wrapper](https://hackage.haskell.org/package/sized-wrapper) (August 2022): provides a wrapper for sized values (also [-aeson](https://hackage.haskell.org/package/sized-wrapper-aeson), [-quickcheck](https://hackage.haskell.org/package/sized-wrapper-quickcheck), [-text](https://hackage.haskell.org/package/sized-wrapper-text))
 - [librarian](https://hackage.haskell.org/package/librarian) (July 2022): a rules-based files moving cli tool
 - [nonempty-wrapper](https://hackage.haskell.org/package/nonempty-wrapper) (June 2022): provides a wrapper for non-empty values (also [-aeson](https://hackage.haskell.org/package/nonempty-wrapper-aeson), [-quickcheck](https://hackage.haskell.org/package/nonempty-wrapper-quickcheck), [-text](https://hackage.haskell.org/package/nonempty-wrapper-text))
@@ -63,6 +64,8 @@ I have also published:
 
 I also contributed to the following projects:
 
+- [zinza](https://hackage.haskell.org/package/zinza): `Jinja` style templating library for Haskell
+  - September 2022: Add `DerivingVia` `Generic`s `newtype`s
 - [event-streaming-patterns](https://github.com/confluentinc/event-streaming-patterns): Confluent/Kafka Messaging/Streaming patterns
   - August 2022: Fix code example
 - [hspec](https://hackage.haskell.org/package/hspec): `hspec` is a behavior-driven development testing library (à la RSpec)
