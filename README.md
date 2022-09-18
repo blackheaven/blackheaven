@@ -41,7 +41,7 @@ I am a professional *Software Engineer*, I have a solid track record of working 
 
 ---
 
-### Open sources contributions
+### ([My cookie jar](https://thewilliamkon.medium.com/david-goggins-the-cookie-jar-method-explained-fa2f6d586d50)) Open sources contributions
 
 I have published some packages over Hackage (Haskell):
 
@@ -64,6 +64,8 @@ I have also published:
 
 I also contributed to the following projects:
 
+- [spaceship-vi-mode](https://github.com/spaceship-prompt/spaceship-vi-mode/): vi-mode plugin for `spaceship` (a Zsh customisable prompt)
+  - September 2022: Fix `antigen` deploy instructions
 - [zinza](https://hackage.haskell.org/package/zinza): `Jinja` style templating library for Haskell
   - September 2022: Add `DerivingVia` `Generic`s `newtype`s
 - [event-streaming-patterns](https://github.com/confluentinc/event-streaming-patterns): Confluent/Kafka Messaging/Streaming patterns
