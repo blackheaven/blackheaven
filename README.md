@@ -64,6 +64,41 @@ I have also published:
 
 I also contributed to the following projects:
 
+- [pg-entity](https://github.com/tchoutri/pg-entity): A pleasant PostgreSQL database layer for Haskell
+  - October 2022: Fix `resource-pool` `>= 0.3` compilation
+- [cachix-action](https://github.com/cachix/cachix-action): Build software only once and put it in a global cache
+  - October 2022: Add flake support
+- [flora-server](https://github.com/flora-pm/flora-server): A package index for the Haskell ecosystem
+  - October 2022: Restore nix flake
+  - October 2022: Add nix flake CI
+  - October 2022: Improve bulk performances
+- [get-wasp](https://github.com/wasp-lang/get-wasp): `wasp` installer
+  - October 2022: Rework update usecase
+- [aeson](https://github.com/haskell/aeson): A fast JSON library
+  - October 2022: Add `@since` in documentation
+- [hackage-server](https://github.com/haskell/hackage-server): Hackage-Server: A Haskell Package Repository
+  - October 2022: Add `lastVersion` in listings
+- [cabal](https://github.com/haskell/cabal): Official upstream development repository for Cabal and cabal-install
+  - October 2022: Add generate `PackageInfos`
+- [hie-bios](https://github.com/haskell/hie-bios): Set up a GHC API session for various Haskell Projects
+  - October 2022: Add logs over commands
+- [wasp](https://github.com/wasp-lang/wasp): A programming language that understands what a web app is.
+  - October 2022: Add cli `update` command
+- [password](https://github.com/cdepillabout/password): datatypes and functions for easily working with passwords in Haskell
+  - October 2022: Add utilities functions
+- [nix-output-monitor](https://github.com/maralorn/nix-output-monitor): Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
+  - October 2022: Drop `flow`-file operators
+- [conferer](https://github.com/ludat/conferer): Configuration management for Haskell
+  - October 2022: Fix missing projects CI
+- [hemmet](https://github.com/astynax/hemmet): Emmet-like text expansion tool capable to produce HTML, CSS, file trees, that stuff
+  - October 2022: Add `hlint` & CI Github Action
+- [tomland](https://github.com/kowainik/tomland): Bidirectional TOML serialization
+  - October 2022: Add `hlint` Github Action
+  - October 2022: Add `Codec` `Selective` instance
+- [iris](https://github.com/chshersh/iris): Haskell CLI Framework supporting Command Line Interface Guidelines
+  - October 2022: Add `hlint` Github Action
+- [eclair-lang](https://github.com/luc-tielen/eclair-lang): A minimal, fast Datalog implementation in Haskell that compiles to LLVM
+  - October 2022: Add `hlint` Github Action
 - [spaceship-vi-mode](https://github.com/spaceship-prompt/spaceship-vi-mode/): vi-mode plugin for `spaceship` (a Zsh customisable prompt)
   - September 2022: Fix `antigen` deploy instructions
 - [zinza](https://hackage.haskell.org/package/zinza): `Jinja` style templating library for Haskell
