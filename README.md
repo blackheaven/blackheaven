@@ -45,6 +45,7 @@ I am a professional *Software Engineer*, I have a solid track record of working 
 
 I have published some packages over Hackage (Haskell):
 
+- [adhoc-fixtures](https://hackage.haskell.org/package/adhoc-fixtures) (November 2022): Simplify tests fixtures (also [-hspec](https://hackage.haskell.org/package/adhoc-fixtures-hspec))
 - [yarl](https://hackage.haskell.org/package/yarl) (September 2022): simple extensible records library (with `getField` support)
 - [sized-wrapper](https://hackage.haskell.org/package/sized-wrapper) (August 2022): provides a wrapper for sized values (also [-aeson](https://hackage.haskell.org/package/sized-wrapper-aeson), [-quickcheck](https://hackage.haskell.org/package/sized-wrapper-quickcheck), [-text](https://hackage.haskell.org/package/sized-wrapper-text))
 - [librarian](https://hackage.haskell.org/package/librarian) (July 2022): a rules-based files moving cli tool
