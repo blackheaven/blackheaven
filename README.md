@@ -45,6 +45,8 @@ I am a professional *Software Engineer*, I have a solid track record of working 
 
 I have published some packages over Hackage (Haskell):
 
+- [kill-bool](https://hackage.haskell.org/package/kill-bool) (March 2023): Booleans strong-typing
+- [poolboy](https://hackage.haskell.org/package/poolboy) (March 2023): Simple work queue for bounded concurrency
 - [adhoc-fixtures](https://hackage.haskell.org/package/adhoc-fixtures) (November 2022): Simplify tests fixtures (also [-hspec](https://hackage.haskell.org/package/adhoc-fixtures-hspec))
 - [yarl](https://hackage.haskell.org/package/yarl) (September 2022): simple extensible records library (with `getField` support)
 - [sized-wrapper](https://hackage.haskell.org/package/sized-wrapper) (August 2022): provides a wrapper for sized values (also [-aeson](https://hackage.haskell.org/package/sized-wrapper-aeson), [-quickcheck](https://hackage.haskell.org/package/sized-wrapper-quickcheck), [-text](https://hackage.haskell.org/package/sized-wrapper-text))
@@ -65,6 +67,8 @@ I have also published:
 
 I also contributed to the following projects:
 
+- [cardano-documentation](https://github.com/input-output-hk/cardano-documentation): Cardano blockchain documentation
+  - March 2023: Fix a typo
 - [pg-entity](https://github.com/tchoutri/pg-entity): A pleasant PostgreSQL database layer for Haskell
   - October 2022: Fix `resource-pool` `>= 0.3` compilation
 - [cachix-action](https://github.com/cachix/cachix-action): Build software only once and put it in a global cache
