@@ -83,6 +83,7 @@ I also contributed to the following projects:
   - October 2022: Add `@since` in documentation
 - [hackage-server](https://github.com/haskell/hackage-server): Hackage-Server: A Haskell Package Repository
   - October 2022: Add `lastVersion` in listings
+  - February 2023: Fix `lastVersion` update in listings
 - [cabal](https://github.com/haskell/cabal): Official upstream development repository for Cabal and cabal-install
   - October 2022: Add generate `PackageInfos`
 - [hie-bios](https://github.com/haskell/hie-bios): Set up a GHC API session for various Haskell Projects
