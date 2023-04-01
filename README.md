@@ -67,6 +67,10 @@ I have also published:
 
 I also contributed to the following projects:
 
+- [purebred-email](https://github.com/purebred-mua/purebred-email): Haskell MIME e-mails parsing and manipulation library
+  - March 2023: Fix documentation
+- [tmux-net-speed](https://github.com/tmux-plugins/tmux-net-speed): tmux status bar net speed fragment
+  - March 2023: Fix `bash` invocation
 - [cardano-documentation](https://github.com/input-output-hk/cardano-documentation): Cardano blockchain documentation
   - March 2023: Fix a typo
 - [pg-entity](https://github.com/tchoutri/pg-entity): A pleasant PostgreSQL database layer for Haskell
@@ -77,6 +81,7 @@ I also contributed to the following projects:
   - October 2022: Restore nix flake
   - October 2022: Add nix flake CI
   - October 2022: Improve bulk performances
+  - March 2023: Improve bulk performances
 - [get-wasp](https://github.com/wasp-lang/get-wasp): `wasp` installer
   - October 2022: Rework update usecase
 - [aeson](https://github.com/haskell/aeson): A fast JSON library
