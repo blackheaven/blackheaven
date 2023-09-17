@@ -66,6 +66,15 @@ I have also published:
 
 I also contributed to the following projects:
 
+- [dhall-openssl](https://github.com/jvanbruegge/dhall-openssl): `dhall` types and utils to generate `OpenSSL`/`LibreSSL` configuration files
+  - August 2023: Add CRL support
+- [microlens-aeson](https://github.com/fosskers/microlens-aeson): `microlens` for `aeson`
+  - August 2023: Add `aeson` `2.2.0.0` support
+- [nixpkgs](https://github.com/NixOS/nixpkgs): nix-based packages set
+  - June 2023: upgrade `curlie` to `1.7.1`
+  - July 2023: add `meta.mainProgram` to eventstore
+- [curlie](https://github.com/rs/curlie): `curl` Rust wrapper (like `httpie`)
+  - May 2023: Fix `curl` long flags with value
 - [purebred-email](https://github.com/purebred-mua/purebred-email): Haskell MIME e-mails parsing and manipulation library
   - March 2023: Fix documentation
 - [tmux-net-speed](https://github.com/tmux-plugins/tmux-net-speed): tmux status bar net speed fragment
