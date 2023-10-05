@@ -66,6 +66,10 @@ I have also published:
 
 I also contributed to the following projects:
 
+- [skip-duplicate-actions](https://github.com/blackheaven/skip-duplicate-actions): Github Action to skip jobs on arbitrary conditions
+  - September 2023: Upgrade to NodeJS 20
+- [lyontechhub.github.io](https://github.com/lyontechhub/lyontechhub.github.io): LyonTechHub (Community of tech communities of Lyon)
+  - August 2023: Migrate from Angular to static site generation
 - [dhall-openssl](https://github.com/jvanbruegge/dhall-openssl): `dhall` types and utils to generate `OpenSSL`/`LibreSSL` configuration files
   - August 2023: Add CRL support
 - [microlens-aeson](https://github.com/fosskers/microlens-aeson): `microlens` for `aeson`
