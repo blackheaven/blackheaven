@@ -60,6 +60,7 @@ I have published some packages over Hackage (Haskell):
 
 I have also published:
 
+- [grafana-dashboards.nix](https://github.com/blackheaven/grafana-dashboards.nix) (nix) (September 2023): Nix tool used to fetch and transform Grafana Dashboards
 - [docker-soju](https://github.com/blackheaven/docker-soju) (Docker) (August 2022): Dockerized version of soju (an IRC bouncer)
 - [coc-hls](https://www.npmjs.com/package/coc-hls) (npm) (December 2021): haskell-language-server coc.nvim extension
 - [danger-ormolu](https://rubygems.org/gems/danger-ormolu) (RubyGems) (August 2021): ormulu integration in Danger (CI tool)
