@@ -67,6 +67,18 @@ I have also published:
 
 I also contributed to the following projects:
 
+- [essence-of-live-coding](https://github.com/turion/essence-of-live-coding): Universal Live Coding & Functional Reactive Programming Framework
+  - October 2023: Add Selective instance to Cell
+- [hapistrano](https://github.com/stackbuilders/hapistrano): Deploy tool for Haskell applications, like Capistrano for Rails
+  - October 2023: Add interactive init command
+- [rhine](https://github.com/turion/rhine): Haskell Functional Reactive Programming framework with type-level clocks
+  - October 2023: Add support for dunai 0.11
+- [monocle](https://github.com/change-metrics/monocle): Changes-sets organisation and monitoring tool
+  - October 2023: Add Workspace name validation
+- [ergo](https://github.com/ergochat/ergo): A modern IRC server (daemon/ircd) written in Go
+  - October 2023: introduce Prometheus
+- [OpenSearch documentation](https://github.com/opensearch-project/documentation-website): OpenSearch (ElasticSearch fork) documentation
+  - October 2023: drop point in time in 1.3.x 
 - [skip-duplicate-actions](https://github.com/blackheaven/skip-duplicate-actions): Github Action to skip jobs on arbitrary conditions
   - September 2023: Upgrade to NodeJS 20
 - [lyontechhub.github.io](https://github.com/lyontechhub/lyontechhub.github.io): LyonTechHub (Community of tech communities of Lyon)
@@ -110,8 +122,10 @@ I also contributed to the following projects:
   - October 2022: Add cli `update` command
 - [password](https://github.com/cdepillabout/password): datatypes and functions for easily working with passwords in Haskell
   - October 2022: Add utilities functions
+  - October 2023: Introduce CLI
 - [nix-output-monitor](https://github.com/maralorn/nix-output-monitor): Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
   - October 2022: Drop `flow`-file operators
+  - October 2023: replace Map with HashMap
 - [conferer](https://github.com/ludat/conferer): Configuration management for Haskell
   - October 2022: Fix missing projects CI
 - [hemmet](https://github.com/astynax/hemmet): Emmet-like text expansion tool capable to produce HTML, CSS, file trees, that stuff
