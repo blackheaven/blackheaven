@@ -67,6 +67,13 @@ I have also published:
 
 I also contributed to the following projects:
 
+- [one-time-password](https://github.com/haskell-cryptography/one-time-password): Haskell iimplementation of one-time-password (HOTOP/TOTP)
+  - December 2023: add nix (flake) support
+  - December 2023: add a full CLI
+- [libsodium-bindings](https://github.com/haskell-cryptography/libsodium-bindings): Haskell bindings to libsodium (cryptographic library)
+  - December 2023: fix flake (nix) derivation for reuse
+- [toml-parser](https://github.com/glguy/toml-parser): Haskell Toml parser
+  - November 2023: Add GHC 9.8.1 support
 - [essence-of-live-coding](https://github.com/turion/essence-of-live-coding): Universal Live Coding & Functional Reactive Programming Framework
   - October 2023: Add Selective instance to Cell
 - [hapistrano](https://github.com/stackbuilders/hapistrano): Deploy tool for Haskell applications, like Capistrano for Rails
@@ -114,6 +121,7 @@ I also contributed to the following projects:
 - [hackage-server](https://github.com/haskell/hackage-server): Hackage-Server: A Haskell Package Repository
   - October 2022: Add `lastVersion` in listings
   - February 2023: Fix `lastVersion` update in listings
+  - December 2023: Replace `lastVersion` by `referenceVersion` (ignore deprecated versions)
 - [cabal](https://github.com/haskell/cabal): Official upstream development repository for Cabal and cabal-install
   - October 2022: Add generate `PackageInfos`
 - [hie-bios](https://github.com/haskell/hie-bios): Set up a GHC API session for various Haskell Projects
