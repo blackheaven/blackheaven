@@ -96,7 +96,8 @@ I also contributed to the following projects:
   - August 2023: Add `aeson` `2.2.0.0` support
 - [nixpkgs](https://github.com/NixOS/nixpkgs): nix-based packages set
   - June 2023: upgrade `curlie` to `1.7.1`
-  - July 2023: add `meta.mainProgram` to eventstore
+  - July 2023: add `meta.mainProgram` to `eventstore`
+  - December 2023: add desktop icon to `appflowy`
 - [curlie](https://github.com/rs/curlie): `curl` Rust wrapper (like `httpie`)
   - May 2023: Fix `curl` long flags with value
 - [purebred-email](https://github.com/purebred-mua/purebred-email): Haskell MIME e-mails parsing and manipulation library
