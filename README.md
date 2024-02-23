@@ -21,7 +21,7 @@ I am a professional *Software Engineer*, I have a solid track record of working 
 ### In short
 
 - 🔭 I’m currently working as *Staff Software Engineer / Senior Haskell developer* @ [Autogriff](https://github.com/Autogriff).
-- 🌱 I’m currently learning *nix*, *Observability*, *Product management*
+- 🌱 I’m currently learning *nix*, *Observability*, *Product management*, *Rust*
 - 👯 I’m looking to collaborate on *Haskell open source projects*
 - 💬 Ask me about *Haskell*, *Backend development*, *Architecture*
 - 📫 How to reach me: *gautier [dot] difolco [at] gmail [dot] com*, [![Linkedin: Gautier DI FOLCO](https://img.shields.io/badge/-Gautier%20DI%20FOLCO-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gautier-di-folco/)](https://www.linkedin.com/in/gautier-di-folco/), [![Twitter Gautier DI FOLCO](https://img.shields.io/twitter/follow/gautier_difolco?style=social)](https://twitter.com/gautier_difolco)
@@ -85,7 +85,7 @@ I also contributed to the following projects:
 - [ergo](https://github.com/ergochat/ergo): A modern IRC server (daemon/ircd) written in Go
   - October 2023: introduce Prometheus
 - [OpenSearch documentation](https://github.com/opensearch-project/documentation-website): OpenSearch (ElasticSearch fork) documentation
-  - October 2023: drop point in time in 1.3.x 
+  - October 2023: drop point in time in 1.3.x
 - [skip-duplicate-actions](https://github.com/blackheaven/skip-duplicate-actions): Github Action to skip jobs on arbitrary conditions
   - September 2023: Upgrade to NodeJS 20
 - [lyontechhub.github.io](https://github.com/lyontechhub/lyontechhub.github.io): LyonTechHub (Community of tech communities of Lyon)
@@ -123,6 +123,7 @@ I also contributed to the following projects:
   - October 2022: Add `lastVersion` in listings
   - February 2023: Fix `lastVersion` update in listings
   - December 2023: Replace `lastVersion` by `referenceVersion` (ignore deprecated versions)
+  - February 2024: Add vulnerability reporting link
 - [cabal](https://github.com/haskell/cabal): Official upstream development repository for Cabal and cabal-install
   - October 2022: Add generate `PackageInfos`
 - [hie-bios](https://github.com/haskell/hie-bios): Set up a GHC API session for various Haskell Projects
