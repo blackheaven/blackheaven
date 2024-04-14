@@ -45,6 +45,7 @@ I am a professional *Software Engineer*, I have a solid track record of working 
 
 I have published some packages over Hackage (Haskell):
 
+- [pure-sum](https://hackage.haskell.org/package/pure-sum) (March 2024): provides a way to properly derive sum types instances (also [-aeson](https://hackage.haskell.org/package/pure-sum-aeson))
 - [kill-bool](https://hackage.haskell.org/package/kill-bool) (March 2023): Booleans strong-typing
 - [poolboy](https://hackage.haskell.org/package/poolboy) (March 2023): Simple work queue for bounded concurrency
 - [adhoc-fixtures](https://hackage.haskell.org/package/adhoc-fixtures) (November 2022): Simplify tests fixtures (also [-hspec](https://hackage.haskell.org/package/adhoc-fixtures-hspec))
