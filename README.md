@@ -25,6 +25,7 @@ I am a professional *Software Engineer*, I have a solid track record of working 
 - 👯 I’m looking to collaborate on *Haskell open source projects*
 - 💬 Ask me about *Haskell*, *Backend development*, *Architecture*
 - 📫 How to reach me: *gautier [dot] difolco [at] gmail [dot] com*, [![Linkedin: Gautier DI FOLCO](https://img.shields.io/badge/-Gautier%20DI%20FOLCO-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gautier-di-folco/)](https://www.linkedin.com/in/gautier-di-folco/), [![Twitter Gautier DI FOLCO](https://img.shields.io/twitter/follow/gautier_difolco?style=social)](https://twitter.com/gautier_difolco)
+- 🔗 Other links: [Personal website](https://gautier.difolco.dev/) / [Passeport](https://passeport.dev/p/5ed43656-147b-463f-99a6-5255a34cd03a)
 - ⚡ Fun fact: unbeatable pasta eater
 
 ---
@@ -70,8 +71,10 @@ I also contributed to the following projects:
 - [one-time-password](https://github.com/haskell-cryptography/one-time-password): Haskell iimplementation of one-time-password (HOTOP/TOTP)
   - December 2023: add nix (flake) support
   - December 2023: add a full CLI
+  - April 2024: add nix (flake) support
 - [libsodium-bindings](https://github.com/haskell-cryptography/libsodium-bindings): Haskell bindings to libsodium (cryptographic library)
   - December 2023: fix flake (nix) derivation for reuse
+  - April 2024: add nix (flake) support
 - [toml-parser](https://github.com/glguy/toml-parser): Haskell Toml parser
   - November 2023: Add GHC 9.8.1 support
 - [essence-of-live-coding](https://github.com/turion/essence-of-live-coding): Universal Live Coding & Functional Reactive Programming Framework
@@ -166,6 +169,7 @@ I also contributed to the following projects:
 - [wai-extra](https://hackage.haskell.org/package/wai-extra): WAI utilities
   - April 2022: Add `Middleware`s for health checks
   - April 2022: Add a dynamic `Middleware` builder
+  - March 2024: Add NoCache to MaxAge in wai-app-static
 - [vim-slime](https://github.com/jpalardy/vim-slime): ViM plugin for interactions with terminal multiplexers
   - December 2021: Fix tmux support
 - [powerline-go](https://github.com/justjanne/powerline-go): Powerline-like shell prompts customization
