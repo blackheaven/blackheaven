@@ -69,7 +69,9 @@ I have also published:
 
 I also contributed to the following projects:
 
-- [one-time-password](https://github.com/haskell-cryptography/one-time-password): Haskell iimplementation of one-time-password (HOTOP/TOTP)
+- [EventStoreDB-Client-Haskell](https://github.com/EventStore/EventStoreDB-Client-Haskell): Haskell client to [EventStore](https://eventstore.com/)
+  - June 2024: GHC 9.6 support
+- [one-time-password](https://github.com/haskell-cryptography/one-time-password): Haskell implementation of one-time-password (HOTOP/TOTP)
   - December 2023: add nix (flake) support
   - December 2023: add a full CLI
   - April 2024: add nix (flake) support
