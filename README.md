@@ -45,6 +45,7 @@ I am a professional *Software Engineer*, I have a solid track record of working 
 
 I have published some packages over Hackage (Haskell):
 
+- [typed-range](https://hackage.haskell.org/package/typed-range) (September 2024): Strongly-typed ranges
 - [pure-sum](https://hackage.haskell.org/package/pure-sum) (March 2024): provides a way to properly derive sum types instances (also [-aeson](https://hackage.haskell.org/package/pure-sum-aeson))
 - [kill-bool](https://hackage.haskell.org/package/kill-bool) (March 2023): Booleans strong-typing
 - [poolboy](https://hackage.haskell.org/package/poolboy) (March 2023): Simple work queue for bounded concurrency
@@ -69,6 +70,12 @@ I have also published:
 
 I also contributed to the following projects:
 
+- [cabal-audit](https://github.com/MangoIV/cabal-audit): cabal tool scanning dependencies for vulnerabilities
+  - August 2024: add sarif output (GitHub Code Scan)
+- [devenv](https://github.com/cachix/devenv): Nix-based developer environments
+  - August 2024: add flag to disable containers tooling
+- [error-message-index](https://github.com/haskellfoundation/error-message-index/): GHC error messages documentations
+  - June 2024: document GHC-89347
 - [EventStoreDB-Client-Haskell](https://github.com/EventStore/EventStoreDB-Client-Haskell): Haskell client to [EventStore](https://eventstore.com/)
   - June 2024: GHC 9.6 support
 - [one-time-password](https://github.com/haskell-cryptography/one-time-password): Haskell implementation of one-time-password (HOTOP/TOTP)
@@ -104,6 +111,9 @@ I also contributed to the following projects:
   - June 2023: upgrade `curlie` to `1.7.1`
   - July 2023: add `meta.mainProgram` to `eventstore`
   - December 2023: add desktop icon to `appflowy`
+  - September 2024: fix `vlc` reference in `nixos/services.mediatomb`
+  - September 2024: add `meta.mainProgram` to `vlc`
+  - September 2024: upgrade `gerbera` to `2.3.0`
 - [curlie](https://github.com/rs/curlie): `curl` Rust wrapper (like `httpie`)
   - May 2023: Fix `curl` long flags with value
 - [purebred-email](https://github.com/purebred-mua/purebred-email): Haskell MIME e-mails parsing and manipulation library
