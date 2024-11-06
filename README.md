@@ -70,6 +70,17 @@ I have also published:
 
 I also contributed to the following projects:
 
+- [servant-static-th](https://github.com/cdepillabout/servant-static-th): embed static directories in `servant`
+  - October 2024: fix compilation
+- [servant](https://github.com/haskell-servant/servant): strongly-typed web server
+  - October 2024: recommend argon2 in JWT cookbook
+- [nix-tree](https://github.com/utdemir/nix-tree): nix derivation dependency browser
+  - October 2024: add `--file` flag
+- [crem](https://github.com/marcosh/crem): Haskell composable state-machine
+  - October 2024: add nothunks instances
+  - October 2024: fix nix compilation
+- [eselsohr](https://github.com/mkoppmann/eselsohr): self-hostable bookmark manager for storing web articles
+  - October 2024: fix nix compilation
 - [cabal-audit](https://github.com/MangoIV/cabal-audit): cabal tool scanning dependencies for vulnerabilities
   - August 2024: add sarif output (GitHub Code Scan)
 - [devenv](https://github.com/cachix/devenv): Nix-based developer environments
@@ -79,17 +90,18 @@ I also contributed to the following projects:
 - [EventStoreDB-Client-Haskell](https://github.com/EventStore/EventStoreDB-Client-Haskell): Haskell client to [EventStore](https://eventstore.com/)
   - June 2024: GHC 9.6 support
 - [one-time-password](https://github.com/haskell-cryptography/one-time-password): Haskell implementation of one-time-password (HOTOP/TOTP)
+  - April 2024: add nix (flake) support
   - December 2023: add nix (flake) support
   - December 2023: add a full CLI
-  - April 2024: add nix (flake) support
 - [libsodium-bindings](https://github.com/haskell-cryptography/libsodium-bindings): Haskell bindings to libsodium (cryptographic library)
-  - December 2023: fix flake (nix) derivation for reuse
   - April 2024: add nix (flake) support
+  - December 2023: fix flake (nix) derivation for reuse
 - [toml-parser](https://github.com/glguy/toml-parser): Haskell Toml parser
   - November 2023: Add GHC 9.8.1 support
 - [essence-of-live-coding](https://github.com/turion/essence-of-live-coding): Universal Live Coding & Functional Reactive Programming Framework
   - October 2023: Add Selective instance to Cell
 - [hapistrano](https://github.com/stackbuilders/hapistrano): Deploy tool for Haskell applications, like Capistrano for Rails
+  - October 2024: add `--dry-run` flag
   - October 2023: Add interactive init command
 - [rhine](https://github.com/turion/rhine): Haskell Functional Reactive Programming framework with type-level clocks
   - October 2023: Add support for dunai 0.11
@@ -108,12 +120,14 @@ I also contributed to the following projects:
 - [microlens-aeson](https://github.com/fosskers/microlens-aeson): `microlens` for `aeson`
   - August 2023: Add `aeson` `2.2.0.0` support
 - [nixpkgs](https://github.com/NixOS/nixpkgs): nix-based packages set
-  - June 2023: upgrade `curlie` to `1.7.1`
-  - July 2023: add `meta.mainProgram` to `eventstore`
-  - December 2023: add desktop icon to `appflowy`
+  - October 2024: `nixos/minidlna`: add package option
+  - October 2024: `nixos/vivid`: init module
   - September 2024: fix `vlc` reference in `nixos/services.mediatomb`
   - September 2024: add `meta.mainProgram` to `vlc`
   - September 2024: upgrade `gerbera` to `2.3.0`
+  - December 2023: add desktop icon to `appflowy`
+  - July 2023: add `meta.mainProgram` to `eventstore`
+  - June 2023: upgrade `curlie` to `1.7.1`
 - [curlie](https://github.com/rs/curlie): `curl` Rust wrapper (like `httpie`)
   - May 2023: Fix `curl` long flags with value
 - [purebred-email](https://github.com/purebred-mua/purebred-email): Haskell MIME e-mails parsing and manipulation library
@@ -127,19 +141,19 @@ I also contributed to the following projects:
 - [cachix-action](https://github.com/cachix/cachix-action): Build software only once and put it in a global cache
   - October 2022: Add flake support
 - [flora-server](https://github.com/flora-pm/flora-server): A package index for the Haskell ecosystem
+  - March 2023: Improve bulk performances
   - October 2022: Restore nix flake
   - October 2022: Add nix flake CI
   - October 2022: Improve bulk performances
-  - March 2023: Improve bulk performances
 - [get-wasp](https://github.com/wasp-lang/get-wasp): `wasp` installer
   - October 2022: Rework update usecase
 - [aeson](https://github.com/haskell/aeson): A fast JSON library
   - October 2022: Add `@since` in documentation
 - [hackage-server](https://github.com/haskell/hackage-server): Hackage-Server: A Haskell Package Repository
-  - October 2022: Add `lastVersion` in listings
-  - February 2023: Fix `lastVersion` update in listings
-  - December 2023: Replace `lastVersion` by `referenceVersion` (ignore deprecated versions)
   - February 2024: Add vulnerability reporting link
+  - December 2023: Replace `lastVersion` by `referenceVersion` (ignore deprecated versions)
+  - February 2023: Fix `lastVersion` update in listings
+  - October 2022: Add `lastVersion` in listings
 - [cabal](https://github.com/haskell/cabal): Official upstream development repository for Cabal and cabal-install
   - October 2022: Add generate `PackageInfos`
 - [hie-bios](https://github.com/haskell/hie-bios): Set up a GHC API session for various Haskell Projects
@@ -147,11 +161,12 @@ I also contributed to the following projects:
 - [wasp](https://github.com/wasp-lang/wasp): A programming language that understands what a web app is.
   - October 2022: Add cli `update` command
 - [password](https://github.com/cdepillabout/password): datatypes and functions for easily working with passwords in Haskell
-  - October 2022: Add utilities functions
+  - October 2024: introduce golden tests
   - October 2023: Introduce CLI
+  - October 2022: Add utilities functions
 - [nix-output-monitor](https://github.com/maralorn/nix-output-monitor): Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
-  - October 2022: Drop `flow`-file operators
   - October 2023: replace Map with HashMap
+  - October 2022: Drop `flow`-file operators
 - [conferer](https://github.com/ludat/conferer): Configuration management for Haskell
   - October 2022: Fix missing projects CI
 - [hemmet](https://github.com/astynax/hemmet): Emmet-like text expansion tool capable to produce HTML, CSS, file trees, that stuff
@@ -180,9 +195,9 @@ I also contributed to the following projects:
 - [optparse-generic](https://hackage.haskell.org/package/optparse-generic): `optparse-application` `Generic`s based library
   - April 2022: Add `Parser`/`Record` runner
 - [wai-extra](https://hackage.haskell.org/package/wai-extra): WAI utilities
+  - March 2024: Add NoCache to MaxAge in wai-app-static
   - April 2022: Add `Middleware`s for health checks
   - April 2022: Add a dynamic `Middleware` builder
-  - March 2024: Add NoCache to MaxAge in wai-app-static
 - [vim-slime](https://github.com/jpalardy/vim-slime): ViM plugin for interactions with terminal multiplexers
   - December 2021: Fix tmux support
 - [powerline-go](https://github.com/justjanne/powerline-go): Powerline-like shell prompts customization
