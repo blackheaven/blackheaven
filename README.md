@@ -13,14 +13,14 @@
   </a>
 </p>
 
-I am *Gautier DI FOLCO* working as *Staff Software Engineer / Senior Haskell developer* @ [Autogriff](https://github.com/Autogriff).
+I am *Gautier DI FOLCO* working as *Staff Software Engineer / Senior Haskell developer* @ [LivTours](https://github.com/livtours).
 I am a professional *Software Engineer*, I have a solid track record of working with business owners to understand project requirements whist working to improve overall functionality of existing systems. With repeated success working from remote locations, I am a skilled collaborator and trusted leader. 
 
 ---
 
 ### In short
 
-- 🔭 I’m currently working as *Staff Software Engineer / Senior Haskell developer* @ [Autogriff](https://github.com/Autogriff).
+- 🔭 I’m currently working as *Staff Software Engineer / Senior Haskell developer* @ [LivTours](https://github.com/livtours).
 - 🌱 I’m currently learning *nix*, *Observability*, *Product management*, *Rust*
 - 👯 I’m looking to collaborate on *Haskell open source projects*
 - 💬 Ask me about *Haskell*, *Backend development*, *Architecture*
