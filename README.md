@@ -45,6 +45,7 @@ I am a professional *Software Engineer*, I have a solid track record of working 
 
 I have published some packages over Hackage (Haskell):
 
+- [antikythera](https://hackage.haskell.org/package/antikythera) (March 2025): Simple job/task/event scheduler/cronjob
 - [typed-range](https://hackage.haskell.org/package/typed-range) (September 2024): Strongly-typed ranges
 - [pure-sum](https://hackage.haskell.org/package/pure-sum) (March 2024): provides a way to properly derive sum types instances (also [-aeson](https://hackage.haskell.org/package/pure-sum-aeson))
 - [kill-bool](https://hackage.haskell.org/package/kill-bool) (March 2023): Booleans strong-typing
