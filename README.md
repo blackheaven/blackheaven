@@ -39,6 +39,7 @@ I am a professional *Software Engineer*, I have a solid track record of working 
  - *ElasticSearch*
  - *PostGreSQL*
  - *AWS*
+ - *Kubernetes*
 
 ---
 
