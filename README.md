@@ -73,17 +73,37 @@ I have also published:
 
 I also contributed to the following projects:
 
+- [machines](https://github.com/ekmett/machines): Networks of composable stream transducers
+  - October 2025: fix duplicated `Data.Machine.Process.process` documentation
+- [hibet](https://github.com/willbasky/hibet): Tibetan-English translator for CLI
+  - October 2025: add Nix support
+- [haskell-language-server](https://github.com/haskell/haskell-language-server): Haskell IDE support via the language server protocol (LSP)
+  - October 2025: rely on gitignore to exclude listed files in ghcide
+  - October 2025: move most of `ghcide` README in hls documentation
+- [c2hs](https://github.com/haskell/c2hs): pre-processor for Haskell FFI bindings to C libraries
+  - October 2025: delete `.travis.yml`
+- [haskellfoundation.github.io](https://github.com/haskellfoundation/haskellfoundation.github.io): HaskellFundation website
+  - June 2025: fix 404 error page
+- [rust-streamdeck](https://github.com/ryankurte/rust-streamdeck): libusb based driver for Elgato StreamDeck devices
+  - May 2025: add `Cargo.lock`
 - [servant-static-th](https://github.com/cdepillabout/servant-static-th): embed static directories in `servant`
   - October 2024: fix compilation
 - [servant](https://github.com/haskell-servant/servant): strongly-typed web server
+  - October 2025: add `OperationId`
+  - October 2025: set `errBody` of `defaultErrorFormatters.notFoundErrorFormatter` in `servant-server`
   - October 2024: recommend argon2 in JWT cookbook
 - [nix-tree](https://github.com/utdemir/nix-tree): nix derivation dependency browser
+  - October 2025: turn nix-tree into a library
   - October 2024: add `--file` flag
 - [crem](https://github.com/marcosh/crem): Haskell composable state-machine
+  - October 2025: implement `AutomatonM` instance for `StateMachineT`
   - October 2024: add nothunks instances
   - October 2024: fix nix compilation
 - [eselsohr](https://github.com/mkoppmann/eselsohr): self-hostable bookmark manager for storing web articles
   - October 2024: fix nix compilation
+- [git-cliff](https://github.com/orhun/git-cliff): ChangeLog generator
+  - November 2024: add Nix CI
+  - October 2024: add a basic Nix environment
 - [cabal-audit](https://github.com/MangoIV/cabal-audit): cabal tool scanning dependencies for vulnerabilities
   - August 2024: add sarif output (GitHub Code Scan)
 - [devenv](https://github.com/cachix/devenv): Nix-based developer environments
@@ -108,7 +128,8 @@ I also contributed to the following projects:
   - October 2023: Add interactive init command
 - [rhine](https://github.com/turion/rhine): Haskell Functional Reactive Programming framework with type-level clocks
   - October 2023: Add support for dunai 0.11
-- [monocle](https://github.com/change-metrics/monocle): Changes-sets organisation and monitoring tool
+- [monocle](https://github.com/change-metrics/monocle): Changes-sets organization and monitoring tool
+  - October 2025: upgrade to bloodhound 0.26.0.0
   - October 2023: Add Workspace name validation
 - [ergo](https://github.com/ergochat/ergo): A modern IRC server (daemon/ircd) written in Go
   - October 2023: introduce Prometheus
@@ -123,6 +144,8 @@ I also contributed to the following projects:
 - [microlens-aeson](https://github.com/fosskers/microlens-aeson): `microlens` for `aeson`
   - August 2023: Add `aeson` `2.2.0.0` support
 - [nixpkgs](https://github.com/NixOS/nixpkgs): nix-based packages set
+  - June 2025: nixos/prometheus.alertmanagerIrcRelay: fix network-online.target ordering but not depending warning
+  - April 2025: rust-streamdeck: init at 0.9.0
   - October 2024: `nixos/minidlna`: add package option
   - October 2024: `nixos/vivid`: init module
   - September 2024: fix `vlc` reference in `nixos/services.mediatomb`
@@ -164,10 +187,15 @@ I also contributed to the following projects:
 - [wasp](https://github.com/wasp-lang/wasp): A programming language that understands what a web app is.
   - October 2022: Add cli `update` command
 - [password](https://github.com/cdepillabout/password): datatypes and functions for easily working with passwords in Haskell
+  - October 2025: be able to turn off instances in password-instances
+  - October 2025: split password-instances into multiple packages
+  - October 2025: add documentation about the `password-cli`
+  - October 2025: upgrade `password-cli` dependencies bounds
   - October 2024: introduce golden tests
   - October 2023: Introduce CLI
   - October 2022: Add utilities functions
 - [nix-output-monitor](https://github.com/maralorn/nix-output-monitor): Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
+  - October 2025: fix Local store URL parsing
   - October 2023: replace Map with HashMap
   - October 2022: Drop `flow`-file operators
 - [conferer](https://github.com/ludat/conferer): Configuration management for Haskell
