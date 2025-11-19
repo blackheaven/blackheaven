@@ -73,6 +73,8 @@ I have also published:
 
 I also contributed to the following projects:
 
+- [gothic](https://github.com/MichelBoucey/gothic): Haskell client library for HashiCorp Vault KVv2
+  - December 2025: upgrade dependencies to use `crypton-connection`
 - [machines](https://github.com/ekmett/machines): Networks of composable stream transducers
   - October 2025: fix duplicated `Data.Machine.Process.process` documentation
 - [hibet](https://github.com/willbasky/hibet): Tibetan-English translator for CLI
