@@ -80,6 +80,7 @@ I also contributed to the following projects:
 - [hibet](https://github.com/willbasky/hibet): Tibetan-English translator for CLI
   - October 2025: add Nix support
 - [haskell-language-server](https://github.com/haskell/haskell-language-server): Haskell IDE support via the language server protocol (LSP)
+  - January 2026: fix sub-directory file path resolution
   - October 2025: rely on gitignore to exclude listed files in ghcide
   - October 2025: move most of `ghcide` README in hls documentation
 - [c2hs](https://github.com/haskell/c2hs): pre-processor for Haskell FFI bindings to C libraries
