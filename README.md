@@ -75,6 +75,23 @@ I also contributed to the following projects:
 
 - [gothic](https://github.com/MichelBoucey/gothic): Haskell client library for HashiCorp Vault KVv2
   - December 2025: upgrade dependencies to use `crypton-connection`
+- [ghc-proposals](https://github.com/ghc-proposals/ghc-proposals): GHC proposals
+  - June 2026: Built-in HasField Solver Support for Polytype Fields under OverloadedRecordDot
+- [hsaml2](https://github.com/dylex/hsaml2): Haskell SAML2 library
+  - July 2026: support crypton backend (crypton-asn1 + ram)
+- [tech-proposals](https://github.com/haskellfoundation/tech-proposals): Haskell Foundation technical proposals
+  - June 2026: Haskell security tooling integrations
+  - June 2026: Decoupling the Haddock Declaration AST from GHC
+- [opencode](https://github.com/anomalyco/opencode): terminal-based AI coding tool
+  - April 2026: make the mouse disablable in the TUI
+- [opencode-snip](https://github.com/VincentHardouin/opencode-snip): snip integration for opencode
+  - May 2026: fix snip prepend duplication
+- [blog.haskell.org](https://github.com/haskell/blog.haskell.org): official Haskell blog
+  - June 2026: write "Overview of Haskell security tooling" article
+- [telescope-live-grep-args.nvim](https://github.com/nvim-telescope/telescope-live-grep-args.nvim): telescope.nvim extension for live grep with arguments
+  - April 2026: replace `tbl_flatten` after Neovim 0.12 deprecation
+- [servant-openapi3](https://github.com/biocad/servant-openapi3): OpenAPI 3 support for Servant
+  - January 2026: add required flag to request bodies, matching servant semantics
 - [machines](https://github.com/ekmett/machines): Networks of composable stream transducers
   - October 2025: fix duplicated `Data.Machine.Process.process` documentation
 - [hibet](https://github.com/willbasky/hibet): Tibetan-English translator for CLI
@@ -87,6 +104,14 @@ I also contributed to the following projects:
   - October 2025: delete `.travis.yml`
 - [haskellfoundation.github.io](https://github.com/haskellfoundation/haskellfoundation.github.io): HaskellFundation website
   - June 2025: fix 404 error page
+- [Lyon-Tech-Hub-Calendar](https://github.com/lyontechhub/Lyon-Tech-Hub-Calendar): Lyon Tech Hub calendar
+  - November 2025: restore LTH calendar and filter deprecation event
+- [coderetreat.org](https://github.com/coderetreat/coderetreat.org): Global Day of Coderetreat website
+  - October 2025: add Lyon Global Day of Code Retreat event
+- [haskell-companies](https://github.com/erkmos/haskell-companies): curated list of companies using Haskell
+  - April 2025: add LivTours, drop Autogriff
+- [practical-web-dev-ghc](https://github.com/rajcspsg/practical-web-dev-ghc): Practical Web Development with GHC
+  - May 2025: fix JSON instances in RabbitMQ adapter
 - [rust-streamdeck](https://github.com/ryankurte/rust-streamdeck): libusb based driver for Elgato StreamDeck devices
   - May 2025: add `Cargo.lock`
 - [servant-static-th](https://github.com/cdepillabout/servant-static-th): embed static directories in `servant`
@@ -108,6 +133,9 @@ I also contributed to the following projects:
   - November 2024: add Nix CI
   - October 2024: add a basic Nix environment
 - [cabal-audit](https://github.com/MangoIV/cabal-audit): cabal tool scanning dependencies for vulnerabilities
+  - June 2026: support CycloneDX 1.7
+  - May 2026: use `purl`
+  - January 2026: fix security-advisory restore
   - August 2024: add sarif output (GitHub Code Scan)
 - [devenv](https://github.com/cachix/devenv): Nix-based developer environments
   - August 2024: add flag to disable containers tooling
@@ -141,12 +169,19 @@ I also contributed to the following projects:
 - [skip-duplicate-actions](https://github.com/blackheaven/skip-duplicate-actions): Github Action to skip jobs on arbitrary conditions
   - September 2023: Upgrade to NodeJS 20
 - [lyontechhub.github.io](https://github.com/lyontechhub/lyontechhub.github.io): LyonTechHub (Community of tech communities of Lyon)
+  - August 2024: rename Twitter to X
   - August 2023: Migrate from Angular to static site generation
 - [dhall-openssl](https://github.com/jvanbruegge/dhall-openssl): `dhall` types and utils to generate `OpenSSL`/`LibreSSL` configuration files
   - August 2023: Add CRL support
 - [microlens-aeson](https://github.com/fosskers/microlens-aeson): `microlens` for `aeson`
   - August 2023: Add `aeson` `2.2.0.0` support
 - [nixpkgs](https://github.com/NixOS/nixpkgs): nix-based packages set
+  - July 2026: `snip`: 0.15.0 -> 0.20.0
+  - July 2026: `nanobot`: init at 0.2.2
+  - June 2026: `codegraph`: init at 0.9.9
+  - June 2026: `codebase-memory-mcp`: init at 0.8.1
+  - June 2026: `semble`: init at 0.3.3
+  - April 2026: `snip`: init at 0.8.1
   - June 2025: nixos/prometheus.alertmanagerIrcRelay: fix network-online.target ordering but not depending warning
   - April 2025: rust-streamdeck: init at 0.9.0
   - October 2024: `nixos/minidlna`: add package option
@@ -154,6 +189,7 @@ I also contributed to the following projects:
   - September 2024: fix `vlc` reference in `nixos/services.mediatomb`
   - September 2024: add `meta.mainProgram` to `vlc`
   - September 2024: upgrade `gerbera` to `2.3.0`
+  - April 2024: `openpomodoro-cli`: init at 0.3.0
   - December 2023: add desktop icon to `appflowy`
   - July 2023: add `meta.mainProgram` to `eventstore`
   - June 2023: upgrade `curlie` to `1.7.1`
@@ -165,6 +201,8 @@ I also contributed to the following projects:
   - March 2023: Fix `bash` invocation
 - [cardano-documentation](https://github.com/input-output-hk/cardano-documentation): Cardano blockchain documentation
   - March 2023: Fix a typo
+- [ploeh.github.com](https://github.com/ploeh/ploeh.github.com): Mark Seemann's blog
+  - December 2023: Serialization with and without Reflection (article + follow-up)
 - [pg-entity](https://github.com/tchoutri/pg-entity): A pleasant PostgreSQL database layer for Haskell
   - October 2022: Fix `resource-pool` `>= 0.3` compilation
 - [cachix-action](https://github.com/cachix/cachix-action): Build software only once and put it in a global cache
@@ -219,6 +257,7 @@ I also contributed to the following projects:
 - [event-streaming-patterns](https://github.com/confluentinc/event-streaming-patterns): Confluent/Kafka Messaging/Streaming patterns
   - August 2022: Fix code example
 - [hspec](https://hackage.haskell.org/package/hspec): `hspec` is a behavior-driven development testing library (à la RSpec)
+  - August 2022: compute diffs (actual, expected) concurrently
   - August 2022: Add parallel result rendering
 - [cabal](https://github.com/haskell/cabal): Haskell main build tool
   - July 2022: Clarify cli flag documentation
@@ -232,6 +271,8 @@ I also contributed to the following projects:
   - March 2024: Add NoCache to MaxAge in wai-app-static
   - April 2022: Add `Middleware`s for health checks
   - April 2022: Add a dynamic `Middleware` builder
+- [easy-hls-nix](https://github.com/jkachmar/easy-hls-nix): easy HLS installer (Nix)
+  - March 2022: upgrade to HLS 1.6.1.0
 - [vim-slime](https://github.com/jpalardy/vim-slime): ViM plugin for interactions with terminal multiplexers
   - December 2021: Fix tmux support
 - [powerline-go](https://github.com/justjanne/powerline-go): Powerline-like shell prompts customization
@@ -240,16 +281,32 @@ I also contributed to the following projects:
   - December 2021: Change RAM units threshold and CPU usage color
 - [Apache Pulsar](https://github.com/apache/pulsar): distributed pub-sub messaging system
   - November 2021: Headers fixes and synchronous functions addition in the C client
+- [HaskellSchool](https://github.com/haskellfoundation/HaskellSchool): Haskell Foundation school
+  - December 2021: start Parsers Combinators lesson
+  - November 2021: fix nixpkgs version in shell.nix
+- [github](https://github.com/haskell-github/github): Haskell bindings for the GitHub API
+  - October 2021: update RepoWebhookEvent
 - [generic-random](https://hackage.haskell.org/package/generic-random): derive via GHC.Generics QuickCheck's Arbitrary instance
   - July 2021: Implement a type-level deriving via module
+- [openapi3](https://github.com/biocad/openapi3): Haskell OpenAPI 3 types
+  - May 2021: support for Specification Extensions
 - [bloodhound](https://hackage.haskell.org/package/bloodhound): ElasticSearch client
   - Since April 2022: Maintainer
   - February 2021: bug fixes
 - [pandoc](https://hackage.haskell.org/package/pandoc): text format processing
   - January 2021: Support for Github wikilinks
+- [swcraftlyon.github.io](https://github.com/swcraftlyon/swcraftlyon.github.io): Software Craftsmanship Lyon website
+  - May 2021: CR Coding dojo 2021-04-22
+  - January 2021: Coding dojo du 2021-01-06
+- [nix-workshop](https://github.com/scrive/nix-workshop): Nix workshop materials
+  - May 2021: fix typo
 - [testcontainers-hs](https://hackage.haskell.org/package/testcontainers): manage Docker containers for tests
   - June 2022: Add naming strategies
   - May 2021: bug fixes
   - June-August 2020: Hspec support, bug fixes, aeson-optics usage
+- [aws-lambda-haskell-runtime-wai](https://github.com/eir-forsakring/aws-lambda-haskell-runtime-wai): AWS Lambda Haskell runtime WAI adapter
+  - September 2020: update to aws-lambda-haskell-runtime 3.0.4
+- [cut-the-crap](https://github.com/jappeace/cut-the-crap): Haskell spam filter CLI
+  - May 2020: various improvements (drop optparse-generic, restore CLI long names)
 - [hatrace](https://github.com/nh2/hatrace): strace-like
   - June 2020: Introduction of many syscalls
