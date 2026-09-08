@@ -47,6 +47,10 @@ I am a professional *Software Engineer*, I have a solid track record of working 
 
 I have published some packages over Hackage (Haskell):
 
+- [sectile](https://hackage.haskell.org/package/sectile) (September 2026): Composable status line builder
+- [numerus-closus](https://hackage.haskell.org/package/numerus-closus) (August 2026): Simple rate-limiting primitives
+- [effectful-poolboy](https://hackage.haskell.org/package/effectful-poolboy) (November 2025): Simple work queue for bounded concurrency (effectful wrapper)
+- [croque-mort](https://hackage.haskell.org/package/croque-mort) (August 2025): Dead simple broken links checker on local HTML folders
 - [antikythera](https://hackage.haskell.org/package/antikythera) (March 2025): Simple job/task/event scheduler/cronjob
 - [typed-range](https://hackage.haskell.org/package/typed-range) (September 2024): Strongly-typed ranges
 - [pure-sum](https://hackage.haskell.org/package/pure-sum) (March 2024): provides a way to properly derive sum types instances (also [-aeson](https://hackage.haskell.org/package/pure-sum-aeson))
@@ -88,6 +92,16 @@ I also contributed to the following projects:
   - May 2026: fix snip prepend duplication
 - [blog.haskell.org](https://github.com/haskell/blog.haskell.org): official Haskell blog
   - June 2026: write "Overview of Haskell security tooling" article
+- [MicroHs](https://github.com/augustss/MicroHs): Haskell implemented with combinators
+  - June 2026: store `ByteString` literals as raw binary blobs instead of quoted text
+- [snip](https://github.com/edouard-claude/snip): CLI proxy that reduces LLM token usage
+  - April 2026: add `display.quiet_no_filter` and `filters.enable` flags
+- [http2](https://github.com/kazu-yamamoto/http2): HTTP/2.0 library including HPACK
+  - December 2025: restore `Config` exported constructor
+- [cborg](https://github.com/well-typed/cborg): Binary serialisation in the CBOR format
+  - November 2025: upgrade QuickCheck dependencies bounds
+- [zsh-auto-notify](https://github.com/MichaelAquilina/zsh-auto-notify): ZSH plugin that sends a notification when a long running task has completed
+  - June 2025: add ability to disable critical notifications
 - [telescope-live-grep-args.nvim](https://github.com/nvim-telescope/telescope-live-grep-args.nvim): telescope.nvim extension for live grep with arguments
   - April 2026: replace `tbl_flatten` after Neovim 0.12 deprecation
 - [servant-openapi3](https://github.com/biocad/servant-openapi3): OpenAPI 3 support for Servant
@@ -176,8 +190,12 @@ I also contributed to the following projects:
 - [microlens-aeson](https://github.com/fosskers/microlens-aeson): `microlens` for `aeson`
   - August 2023: Add `aeson` `2.2.0.0` support
 - [nixpkgs](https://github.com/NixOS/nixpkgs): nix-based packages set
+  - July 2026: `text-embeddings-inference`: init at 1.9.3
+  - July 2026: `python3Packages.hindsight-api`: init at 0.8.4
+  - July 2026: `md2conf`: init at 0.6.1
+  - July 2026: `omp-bin`: init at 18.1.10
   - July 2026: `snip`: 0.15.0 -> 0.20.0
-  - July 2026: `nanobot`: init at 0.2.2
+  - July 2026: `nanobot`: init at 0.3.0
   - June 2026: `codegraph`: init at 0.9.9
   - June 2026: `codebase-memory-mcp`: init at 0.8.1
   - June 2026: `semble`: init at 0.3.3
