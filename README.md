@@ -77,6 +77,10 @@ I have also published:
 
 I also contributed to the following projects:
 
+- [lsp](https://github.com/haskell/lsp): Haskell library for the Microsoft Language Server Protocol
+  - October 2026: migrate `FilePath`/`NormalizedFilePath` to `OsPath`/`NormalizedOsPath`
+- [atomic-counter](https://github.com/sergv/atomic-counter): Haskell counters that can be safely incremented from multiple threads
+  - October 2026: fix synopsis typo
 - [gothic](https://github.com/MichelBoucey/gothic): Haskell client library for HashiCorp Vault KVv2
   - December 2025: upgrade dependencies to use `crypton-connection`
 - [ghc-proposals](https://github.com/ghc-proposals/ghc-proposals): GHC proposals
@@ -111,6 +115,9 @@ I also contributed to the following projects:
 - [hibet](https://github.com/willbasky/hibet): Tibetan-English translator for CLI
   - October 2025: add Nix support
 - [haskell-language-server](https://github.com/haskell/haskell-language-server): Haskell IDE support via the language server protocol (LSP)
+  - October 2026: make CodeAction respect local qualification when filling suggested constraints
+  - October 2026: add basic `cabal.project` support
+  - October 2026: migrate `FilePath`/`NormalizedFilePath` to `OsPath`/`NormalizedOsPath`
   - January 2026: fix sub-directory file path resolution
   - October 2025: rely on gitignore to exclude listed files in ghcide
   - October 2025: move most of `ghcide` README in hls documentation
@@ -226,6 +233,11 @@ I also contributed to the following projects:
 - [cachix-action](https://github.com/cachix/cachix-action): Build software only once and put it in a global cache
   - October 2022: Add flake support
 - [flora-server](https://github.com/flora-pm/flora-server): A package index for the Haskell ecosystem
+  - October 2026: restore vulnerabilities fetching by bumping `hsec-sync`/`cvss`
+  - October 2026: make vulnerabilities import repeatable
+  - October 2026: fetch security advisories with `hsec-sync`
+  - October 2026: upgrade `hsec-core` and `hsec-tools` to `0.5.0.0`
+  - October 2026: expose web resources for security advisories
   - March 2023: Improve bulk performances
   - October 2022: Restore nix flake
   - October 2022: Add nix flake CI
@@ -240,6 +252,8 @@ I also contributed to the following projects:
   - February 2023: Fix `lastVersion` update in listings
   - October 2022: Add `lastVersion` in listings
 - [cabal](https://github.com/haskell/cabal): Official upstream development repository for Cabal and cabal-install
+  - October 2026: accept `data-files` in conditional blocks
+  - October 2026: fix `cabal sdist` target selection
   - October 2022: Add generate `PackageInfos`
 - [hie-bios](https://github.com/haskell/hie-bios): Set up a GHC API session for various Haskell Projects
   - October 2022: Add logs over commands
